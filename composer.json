@@ -1,0 +1,16 @@
+{
+	"name": "adamfiser/codingstandard",
+	"type" : "phpcodesniffer-standard",
+	"description": "Wanex coding standard.",
+	"license": "MIT",
+	"require": {
+		"php": ">=7.2",
+		"squizlabs/php_codesniffer": "^3.7.2",
+		"slevomat/coding-standard": "^8.8.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"WanexCodingStandard\\": "WanexCodingStandard/"
+		}
+	}
+}
