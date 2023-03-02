@@ -12,5 +12,12 @@
 		"psr-4": {
 			"WanexCodingStandard\\": "WanexCodingStandard/"
 		}
-	}
+	},
+	"authors": [
+		{
+			"name": "Adam Fišer",
+			"email": "adam.fiser@wanex.cz"
+		}
+	],
+	"minimum-stability": "stable"
 }
